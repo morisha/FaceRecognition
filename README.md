@@ -37,3 +37,5 @@ Visualization hotkeys:
 *   s - save image face detections to id folder
 
 ![alt text](https://github.com/habrman/FaceRecognition/blob/master/example.png)
+
+[![Run on Repl.it](https://repl.it/badge/github/habrman/FaceRecognition)](https://repl.it/github/habrman/FaceRecognition)
